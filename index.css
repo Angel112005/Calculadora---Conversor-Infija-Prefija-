@@ -1,0 +1,39 @@
+body {
+  background: radial-gradient(lightslategrey, rgb(67, 61, 61));
+  height: 705px;
+  margin: 0;
+}
+
+#header {
+  /* border: 2px solid brown; */
+  text-align: center;
+  font-size: 400%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  letter-spacing: 7px;
+  background: linear-gradient(to right, #a8cd68, lightgreen, #c0a242);
+}
+
+.box1 {
+  letter-spacing: 5px;
+  border-radius: 80px;
+  margin-left: 35%;
+  margin-top: 3%;
+  width: 30%;
+  height: 50%;
+  background: linear-gradient(
+    40deg,
+    rgb(121, 185, 139),
+    lightpink,
+    lightyellow,
+    lightsalmon
+  );
+  display: inline-block;
+  text-align: center;
+}
+
+#expression {
+    height: 10%;
+    width: 45%;
+  margin-top: 15%;
+}
